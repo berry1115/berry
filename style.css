@@ -259,7 +259,6 @@ transform: translateX(0);
 /*メニュー
 -----------------------------*/
   .menu-wrapper {
-    background-color: white;
     text-align: center;
     height: 450px;
     margin-bottom: 10px ;
@@ -269,22 +268,15 @@ transform: translateX(0);
     color: #73454D;
     padding-top: 30px;
     padding-bottom: 0px;
-    
-  }
-  
-  
+   }
   .menu {
     display:inline-block;
     width: 26%;
     background-color: #d9ccc54b;
-  
     border-radius: 4%;
-   
     padding: 5px 0;
     text-align: center;
-    
-  
-  }
+   }
   .heading h2 {
     font-weight: normal;
     font-family: Iowan Old Style;
