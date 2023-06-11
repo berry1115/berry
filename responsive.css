@@ -266,10 +266,8 @@ width: 100%;
 }
 .salon-right {
   text-align: center;
-  
   float: none;
-  
-}
+ }
 .salon-right h3 {
   text-align: center;
   font-size: 14px;
@@ -279,7 +277,7 @@ width: 100%;
 .salon-right p {
   font-size: 10px;
   margin-top: 0;
-  padding-top: 3px;
+  padding-top: 18px;
 }
  /*SNS
 -----------------------------*/
