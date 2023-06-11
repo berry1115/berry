@@ -457,12 +457,6 @@ transform: translateX(0);
   margin-top: 40px
   
 }
-
-.teble {
-  background-color: #F2DCD8;
-    border-radius: 7%;
-}
-
 .grid {
 display: grid;
 gap: 25px;
@@ -489,6 +483,17 @@ margin-bottom: 40px;
   display:block;
   max-width: 100%;
   border-radius: 5%;
+}
+
+/*access page*/
+.table-access {
+  display: inline;
+  text-align: center;
+  width:100%;
+  margin-top: 40px;
+}
+.table-access td {
+  color:#73454D;
 }
 .accesss p {
   margin: 10px 50px;
