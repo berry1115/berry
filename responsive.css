@@ -418,16 +418,15 @@ footer {
     padding-bottom: 1px;
   }
   .menu-icon p {
-    font-size: 10px;
+    font-size: 25px;
   }
   .text-content {
-    font-size: 10%;
+    font-size: 20px;
     margin-top: 1%;
   }
-  
   .menu-wrapper {
     margin:0 auto;
-    height: 630px;
+    height: 200px;
   }
      /*ギャラリー
 -----------------------------*/
