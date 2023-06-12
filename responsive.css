@@ -180,7 +180,7 @@ header li {
 }
 /*トップ
 -----------------------------*/
-  .top-wrapper .btn {
+.top-wrapper .btn {
 width: 100%;
 }
 .btn {
@@ -211,17 +211,14 @@ width: 100%;
   padding: 1px;
   margin: 1px;
   border: 2px;
- display:inline-block;
- width: 8em;
- height: 1.8em;
- font-size: 8px;
- text-align: center;
+  display:inline-block;
+  width: 8em;
+  height: 1.8em;
+  font-size: 8px;
+  text-align: center;
 }
  /*メニュー
 -----------------------------*/
-.heading h2 {
-  font-size: 15px;
-}
 .menus {
   text-align: center;
   
@@ -368,10 +365,13 @@ label {
 label p {
   font-size: 10px;
 }
-
-
 .button {
   font-size:0.8rem;
+}
+/*faq
+-----------------------------*/  
+.faq {
+  margin-top: 24px;
 }
 #faq-list {
   width: 350px;
@@ -380,8 +380,12 @@ label p {
   list-style: none;
 }
 .faq-list-item {
-  margin: 20px;
-  padding:20px;
+  margin: 8px;
+  padding:18px;
+}
+.answer {
+  padding-top: 24px;
+  margin-bottom:0px;
 }
 }
 
