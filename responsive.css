@@ -17,10 +17,7 @@
 
 /*トップ
 -----------------------------*/
-.top-wrapper h1 {
-  font-size: 30px;
-  text-align: center;
-}
+
 .pink {
   margin-bottom: 5px;
   padding: 10px;
@@ -172,21 +169,12 @@ width: 100%;
   width: 100%;
 }
 .top-wrapper {
- 
-  background-size: cover;
+
   width: 100%;
   padding-bottom: 5%;
   padding-top: 80px;
 }
 
-.top-wrapper h1 {
-  font-size: 15px;
-  text-align: center;
-}
-.top-wrapper p {
-  font-size: 8px;
-  text-align: center;
-}
   
 .slider-item {
   width: 50%;
