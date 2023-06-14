@@ -72,19 +72,19 @@ slider {
   height: 100vh;
 }
 .slider-item01 {
-  background:url(./image/1.png);
+  background:url("https://github.com/berry1115/berry/blob/main/image/1.png");
 }
 .slider-item02 {
-  background:url(./image/2.png);
+  background:url("https://github.com/berry1115/berry/blob/main/image/2.png");
 }
 .slider-item03 {
-  background:url(./image/3.PNG);
+  background:url("https://github.com/berry1115/berry/blob/main/image/3.png");
 }
 .slider-item04 {
-  background:url(./image/4.png);
+  background:url("https://github.com/berry1115/berry/blob/main/image/4.png");
 }
 .slider-item05 {
-  background:url(./image/5.png);
+  background:url("https://github.com/berry1115/berry/blob/main/image/5.png");
 }
 .slider-item {
   width: 100%;
