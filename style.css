@@ -97,7 +97,7 @@ slider {
 .slick-next {
     position: absolute;
 	z-index: 3;
-    top: 42%;
+    top: 50%;
     cursor: pointer;
     outline: none;
     border-top: 2px solid #dbbcbc;
