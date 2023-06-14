@@ -126,7 +126,7 @@ slider {
 .slick-dots button {
   color: transparent;
   outline: none;
-  width:4px;
+  width:1px;
   height:1px;
   display:block;
   border:0;
@@ -134,7 +134,7 @@ slider {
 }
 
 .slick-dots .slick-active button{
-    background:#d9a2a2;
+    background:#eed7d7;
 }
 
 
