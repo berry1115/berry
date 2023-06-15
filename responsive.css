@@ -61,6 +61,9 @@
 }
 /*サロン
 -----------------------------*/
+  .salon-wrapper {
+  margin-top: 30px;
+ }
 .salons {
   width: 100%;
   margin-top:15px;
