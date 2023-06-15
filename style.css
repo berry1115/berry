@@ -407,7 +407,7 @@ transform: translateX(0);
  /*ギャラリー
 -----------------------------*/
 .gallery-wrapper {
-  margin-top: 160px;
+  margin-top: 10px;
 }
   .gallerys {
     text-align: center;
