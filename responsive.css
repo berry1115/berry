@@ -333,6 +333,11 @@ iframe {
   width:300px;
   height: 240px;
   }
+  .table-access td {
+    padding:3px 24px;
+  }
+/*下層ページ  GALLERY
+-----------------------------*/
   .grid {
     display: grid;
     gap: 32px;
