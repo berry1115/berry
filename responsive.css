@@ -150,7 +150,10 @@
   footer {
     margin-top: 300px;
   }
-  
+  .faq-wrapper{
+  margin-top: 161px;
+}
+}
 
 @media all and (max-width: 670px) {
 
