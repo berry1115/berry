@@ -144,7 +144,9 @@
   .menu-wrapper {
     margin-bottom:0px;
   }
-
+  .gallery-wrapper {
+  margin-top: 10px;
+}
   footer {
     margin-top: 360px;
   }
