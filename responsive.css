@@ -145,6 +145,10 @@
     margin-bottom:0px;
   }
 
+  footer {
+    margin-top: 360px;
+  }
+  
 
 @media all and (max-width: 670px) {
 
