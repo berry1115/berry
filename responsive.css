@@ -506,7 +506,8 @@ header li {
   display: grid;
   gap: 8px;
   grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
-  margin: 5%;
+  padding:0px 20px 0px 20px;
+  }
   }
   #faq-list {
     width: 300px;
