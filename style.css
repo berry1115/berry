@@ -616,21 +616,23 @@ margin-bottom: 5px;
   font-weight: normal;
   margin-bottom: 50px; 
   text-align: center;
- 
+ }
+.re {
+  margin:0 auto;
+  width: fit-content;
 }
-
 
 label { 
   font-size:  1.125rem;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   display:block;
-  text-align: center;
+  text-align: left;
   
- padding-left: 20px;
+ padding-top: 10px;
   font-size: 20px;
 }
 label p {
-  font-size: 15px;
+  font-size: 18px;
 }
 
 
@@ -641,7 +643,7 @@ textarea {
   border: 1px #6a9ed6 solid;
   border-radius: 5px;
   padding: 10px;
- margin-bottom: 10px;
+ margin-bottom: 8px;
   font-size: 1rem;
   }
 .radio {
